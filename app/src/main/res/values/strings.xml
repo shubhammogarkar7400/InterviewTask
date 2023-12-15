@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="button">Button</string>
+    <string name="add_title">Add Title</string>
+    <string name="add_date">Add date</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="please_allow_the_alarm_permission">Please allow the alarm permission.</string>
+    <string name="enter_all_filed_data">Enter All Filed data</string>
+    <string name="form_filled_incomplete_error">Form Filled Incomplete Error.</string>
+    <string name="todo_deleted">Todo deleted.</string>
+    <string name="updated_old_todo">Updated Old Todo.</string>
+    <string name="new_todo_added">New Todo Added.</string>
+</resources>
